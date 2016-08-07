@@ -1,0 +1,36 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "typescript test",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-haijiang9999/cc.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "yanhaijiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-haijiang9999/cc/issues"
+  },
+  "homepage": "https://github.com/v-haijiang9999/cc#readme",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "tsify": "^1.0.1",
+    "typescript": "^1.8.10",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
